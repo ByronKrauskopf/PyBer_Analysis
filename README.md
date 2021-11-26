@@ -7,7 +7,7 @@ V.Isualize, the CEO of PyBer, has requested an analysis of company performance b
 - City type level summary
 - Graph comparing city type fare summary for the first four months of 2019
 
-The purpose of this analysis is to provide insights into PyBer's ride sharing to allow for the company to make informed strategic decisions.
+The purpose of this analysis is to provide insights and recommendations into PyBer's ride sharing performance to allow for the company to make informed strategic decisions.
 
 ## Results
 
@@ -32,9 +32,9 @@ The below chart summarizes the results of the analysis across various key metric
 
 The below graph summarizes the comparative weekly fare performance for each city type during the first 4 months of 2019.
 
-![PyBer Fare Summary](./analysis/Pyber_fare_summary.png)
+![PyBer Fare Summary](./analysis/PyBer_fare_summary.png)
 
-
-
+From this it can be observed that for all weeks shown Urban cities had the highest fare revenue while Rural cities had the lowest.  The lines are relatively flat for each city type, no more than $1000 difference between the highest and the lowest weeks for each line, indicating that demand is overall fairly consistent during the time period observed. The busest time was the thrid week of February when all three city times saw a spike in users.
 
 ## Summary
+
